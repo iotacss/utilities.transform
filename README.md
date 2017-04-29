@@ -13,13 +13,13 @@ npm install --save iotacss-utils-transform
 ### Options ###
 
 ```sass
-$iota-utils-transform-namespace   : '' !default;
-$iota-utils-transform-capitalize  : 'capitalize' !default;
-$iota-utils-transform-uppercase   : 'uppercase' !default;
-$iota-utils-transform-lowercase   : 'lowercase' !default;
+$iota-utils-transform-namespace       : '' !default;
+$iota-utils-transform-capitalize-name : 'capitalize' !default;
+$iota-utils-transform-uppercase-name  : 'uppercase' !default;
+$iota-utils-transform-lowercase-name  : 'lowercase' !default;
 
-$iota-utils-transform-res         : false !default;
-$iota-utils-transform-breakpoints : $iota-global-breakpoints !default;
+$iota-utils-transform-res             : false !default;
+$iota-utils-transform-breakpoints     : $iota-global-breakpoints !default;
 ```
 
 
