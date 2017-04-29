@@ -1,0 +1,18 @@
+{
+  "name": "iotacss-utils-transform",
+  "version": "1.0.0",
+  "description": "Transform utilities for iotaCSS",
+  "main": "_utilities.transform.scss",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iotacss/utilities.transform.git"
+  },
+  "keywords": [
+    "iotacss",
+    "css",
+    "sass",
+    "bem",
+    "oocss"
+  ],
+  "author": "Dimitris Psaropoulos <info@harby.me>"
+}
